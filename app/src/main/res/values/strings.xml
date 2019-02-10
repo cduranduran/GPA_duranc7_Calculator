@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPA_duranc7_Calculator</string>
+    <string name="Compute_Button">Compute GPA</string>
+    <string name="class_4">Class 4:</string>
+    <string name="class_2">Class 2:</string>
+    <string name="class_3">Class 3:</string>
+    <string name="class_1">Class 1:</string>
+    <string name="class_5">Class 5:</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="GPA_View">0.0</string>
+    <string name="GPA_title">Your GPA is:</string>
+    <string name="Grade_title">Letter Grade</string>
+    <string name="grade_1_hint">Grade 1</string>
+    <string name="grade_2_hint">Grade 2</string>
+    <string name="grade_3_hint">Grade 3</string>
+    <string name="grade_4_hint">Grade 4</string>
+    <string name="grade_5_hint">Grade 5</string>
+</resources>
